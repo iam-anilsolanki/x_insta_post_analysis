@@ -1,7 +1,5 @@
-streamlit
-snscrape
-instaloader
-textblob
-pillow
-requests
-python==3.10
+streamlit==1.45.0
+instaloader==4.14.1
+textblob==0.19.0
+pillow==11.2.1
+requests==2.32.3

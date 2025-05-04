@@ -1,0 +1,6 @@
+streamlit
+snscrape
+instaloader
+textblob
+pillow
+requests
